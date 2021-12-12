@@ -1,9 +1,9 @@
-# Melogy - my learning project
+## Melogy - my learning project
 
-## Coded by: Vadym Kochergin
+### Coded by: Vadym Kochergin
 
-### Tchnologies used:
+#### Technologies used:
 - html
 - css
 - java script
-- 
+
